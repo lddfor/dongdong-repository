@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhooks=self.webpackChunkhooks||[]).push([[895],{2895:function(e,s,n){n.r(s);n(2791);var i=n(184);s.default=function(e){return(0,i.jsxs)("div",{children:[(0,i.jsxs)("div",{className:"left-pane",children:[e.left,"223"]}),(0,i.jsx)("div",{className:"right-pane",children:e.right})]})}}}]);
+//# sourceMappingURL=895.d2a21e26.chunk.js.map
